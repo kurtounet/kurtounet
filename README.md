@@ -6,12 +6,22 @@
 
 ### 🔧 Langages
 
-<p align="left">
-  <span><img src="assets/svg/logo-tech/php_logo.svg" width="55"><br>PHP</span>&nbsp;&nbsp;&nbsp;
-  <span><img src="assets/svg/logo-tech/typescript_logo.svg" width="55"><br>TypeScript</span>&nbsp;&nbsp;&nbsp;
-  <span><img src="assets/svg/logo-tech/html5_logo.svg" width="55"><br>HTML5</span>&nbsp;&nbsp;&nbsp;
-  <span><img src="assets/svg/logo-tech/javascript_logo.svg" width="55"><br>JavaScript</span>
-</p>
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<tr>
+<td align="center" style="border: none;">
+  <img src="assets/svg/logo-tech/php_logo.svg" width="60"/><br>PHP
+</td>
+<td align="center" style="border: none;">
+  <img src="assets/svg/logo-tech/typescript_logo.svg" width="55"/><br>TypeScript
+</td>
+<td align="center" style="border: none;">
+  <img src="assets/svg/logo-tech/html5_logo.svg" width="55"/><br>HTML5
+</td>
+<td align="center" style="border: none;">
+  <img src="assets/svg/logo-tech/javascript_logo.svg" width="55"/><br>JavaScript
+</td>
+</tr>
+</table>
 
 ---
 
