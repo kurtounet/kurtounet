@@ -1,7 +1,3 @@
-Voici une version propre, cohérente et homogène de ton README, optimisée pour GitHub.
-J’ai gardé ta structure mais j’ai harmonisé les tailles, supprimé les styles inutiles, et aligné tous les tableaux de manière propre pour éviter les incohérences d’affichage.
-Tu peux copier-coller tel quel.
-
 ---
 
 # 👋 Bienvenue sur mon GitHub
