@@ -16,7 +16,7 @@
 ### 🔧 Langages
 <table style="border:none" cellspacing="0">
 <tr>
-<td align="center" style="fill:none"><img src="assets/svg/logo-tech/php_logo.svg" width="60"/><br>PHP</td>
+<td align="center" ><img style="fill:none" src="assets/svg/logo-tech/php_logo.svg" width="60"/><br>PHP</td>
 <td align="center" style="border:none"><img src="assets/svg/logo-tech/typescript_logo.svg" width="45"/><br>TypeScript</td>
 <td align="center" style="border:none"><img src="assets/svg/logo-tech/html5_logo.svg" width="50"/><br>HTML5</td>
 <td align="center" style="border:none"><img src="assets/svg/logo-tech/javascript_logo.svg" width="45"/><br>JavaScript</td>
