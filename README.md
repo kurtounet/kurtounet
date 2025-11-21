@@ -14,7 +14,7 @@
 ## 🧩 Mes Stack technique
 ---
 ### 🔧 Langages
-<table>
+<table style="border:none" cellspacing="0">
 <tr>
 <td align="center"><img src="assets/svg/logo-tech/php_logo.svg" width="60"/><br>PHP</td>
 <td align="center"><img src="assets/svg/logo-tech/typescript_logo.svg" width="45"/><br>TypeScript</td>
@@ -28,7 +28,7 @@
  
 ### 🔧 Pour le design
 
-<table>
+<table style="border:none" cellspacing="0">
 <tr>
 <td align="center"><img src="assets/svg/logo-tech/tailwind_css_logo.svg" width="45"/><br>Tailwind CSS</td> 
 <td align="center"><img src="assets/svg/logo-tech/css3_logo.svg" width="60"/><br>CSS3</td>
@@ -41,7 +41,7 @@
 
 ### 🔧 Backend
 
-<table>
+<table style="border:none" cellspacing="0">
 <tr>
  
 <td align="center" bgcolor="white"><img src="assets/svg/logo-tech/symfony_logo.svg" width="45"/><br>Symfony</td>
@@ -56,7 +56,7 @@
 
 ### 🎨 Frontend
 
-<table>
+<table style="border:none" cellspacing="0">
 <tr>
 <td align="center"><img src="assets/svg/logo-tech/angular_logo.svg" width="55"/><br>Angular</td>
 <td align="center"><img src="assets/svg/logo-tech/nuxt_logo.svg" width="55"/><br>Nuxt</td>
@@ -68,7 +68,7 @@
 
 ### 🛢️ Bases de données
 
-<table>
+<table style="border:none" cellspacing="0">
 <tr>
 <td align="center"><img src="assets/svg/logo-tech/mysql_logo.svg" width="45"/><br>MySQL</td>
 <!-- <td bgcolor="white" align="center"><img src="assets/svg/logo-tech/mariadb_logo.svg" width="45"/></td> -->
@@ -80,7 +80,7 @@
 
 ### 🧰 Outils & Écosystème
 
-<table>
+<table style="border:none" cellspacing="0">
 <tr>
 <td align="center"><img src="assets/svg/logo-tech/git_logo.svg" width="55"/><br>Git</td>
 <td bgcolor="white" align="center"><img src="assets/svg/logo-tech/github_logo.svg" width="45"/><br>GitHub</td>
